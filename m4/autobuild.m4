@@ -1,4 +1,4 @@
-# autobuild.m4 serial 3
+### autobuild.m4 serial 3
 # Copyright (C) 2004, 2006 Simon Josefsson
 #
 # This file is free software, distributed under the terms of the GNU
